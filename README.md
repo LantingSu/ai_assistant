@@ -1,4 +1,4 @@
-## Camping AI Assistant
+## AI Assistant
 
 Welcome to the repository of an AI assistant designed for camping! Our AI assistant leverages the power of a large language model (LLM) to provide personalized chatbot functionality, combined with some domain knowledge about camping.
 
